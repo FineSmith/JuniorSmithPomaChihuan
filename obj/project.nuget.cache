@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "5K4I9SojZB4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\estudianteuc\\Documents\\APLICACIONES WEB\\SistemadeGestion\\SistemadeGestion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\estudianteuc\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.10\\microsoft.aspnetcore.openapi.10.0.10.nupkg.sha512",
+    "C:\\Users\\estudianteuc\\.nuget\\packages\\microsoft.openapi\\2.1.0\\microsoft.openapi.2.1.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.OpenApi' 2.1.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
+      "projectPath": "C:\\Users\\estudianteuc\\Documents\\APLICACIONES WEB\\SistemadeGestion\\SistemadeGestion.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\estudianteuc\\Documents\\APLICACIONES WEB\\SistemadeGestion\\SistemadeGestion.csproj",
+      "libraryId": "Microsoft.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
